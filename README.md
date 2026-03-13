@@ -3,7 +3,7 @@ I made this with a friend hope yall like it
 
 # Hydra Nuke
 
-Is a discord nuke-bot tool i made with a friend
+Is a discord bot tool i made 
 
 Requirements: Discord, And Colorama (THIS IS 100% PYTHON BASED)
 
