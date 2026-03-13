@@ -1,0 +1,7 @@
+{
+"bot_token": "Your bot token here",
+"prefix": ">",
+"channelnames": "The channel name you want it changed to here",
+"rolenames": "The role name you want created here",
+"spam_text": ["The text you want it to spam here"]
+}
